@@ -7,3 +7,12 @@ c:\users\kyle\documents\visual studio 2013\Projects\VoltorbFlip\VoltorbFlip\obj\
 c:\users\kyle\documents\visual studio 2013\Projects\VoltorbFlip\VoltorbFlip\obj\Debug\VoltorbFlip.csproj.GenerateResource.Cache
 c:\users\kyle\documents\visual studio 2013\Projects\VoltorbFlip\VoltorbFlip\obj\Debug\VoltorbFlip.exe
 c:\users\kyle\documents\visual studio 2013\Projects\VoltorbFlip\VoltorbFlip\obj\Debug\VoltorbFlip.pdb
+C:\Users\Kyle\Documents\GitHub\Voltorb_Flip\VoltorbFlip\bin\Debug\VoltorbFlip.exe.config
+C:\Users\Kyle\Documents\GitHub\Voltorb_Flip\VoltorbFlip\obj\Debug\VoltorbFlip.exe
+C:\Users\Kyle\Documents\GitHub\Voltorb_Flip\VoltorbFlip\obj\Debug\VoltorbFlip.pdb
+C:\Users\Kyle\Documents\GitHub\Voltorb_Flip\VoltorbFlip\bin\Debug\VoltorbFlip.exe
+C:\Users\Kyle\Documents\GitHub\Voltorb_Flip\VoltorbFlip\bin\Debug\VoltorbFlip.pdb
+C:\Users\Kyle\Documents\GitHub\Voltorb_Flip\VoltorbFlip\obj\Debug\VoltorbFlip.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\GitHub\Voltorb_Flip\VoltorbFlip\obj\Debug\VoltorbFlip.MainWindow.resources
+C:\Users\Kyle\Documents\GitHub\Voltorb_Flip\VoltorbFlip\obj\Debug\VoltorbFlip.Properties.Resources.resources
+C:\Users\Kyle\Documents\GitHub\Voltorb_Flip\VoltorbFlip\obj\Debug\VoltorbFlip.csproj.GenerateResource.Cache

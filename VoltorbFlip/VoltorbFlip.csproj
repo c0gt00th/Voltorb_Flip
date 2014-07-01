@@ -50,6 +50,10 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Game.cs" />
+    <Compile Include="GameBoard.cs" />
+    <Compile Include="GameRow.cs" />
+    <Compile Include="GameTile.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -79,7 +83,25 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="resources\default_card.png" />
+    <None Include="bin\Debug\blue_counter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\orange_counter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\purple_counter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\red_counter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\yellow_counter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\default_card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\marked_card.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
