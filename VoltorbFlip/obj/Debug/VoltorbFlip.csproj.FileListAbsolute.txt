@@ -1,0 +1,9 @@
+c:\users\kyle\documents\visual studio 2013\Projects\VoltorbFlip\VoltorbFlip\bin\Debug\VoltorbFlip.exe.config
+c:\users\kyle\documents\visual studio 2013\Projects\VoltorbFlip\VoltorbFlip\bin\Debug\VoltorbFlip.exe
+c:\users\kyle\documents\visual studio 2013\Projects\VoltorbFlip\VoltorbFlip\bin\Debug\VoltorbFlip.pdb
+c:\users\kyle\documents\visual studio 2013\Projects\VoltorbFlip\VoltorbFlip\obj\Debug\VoltorbFlip.csprojResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2013\Projects\VoltorbFlip\VoltorbFlip\obj\Debug\VoltorbFlip.MainWindow.resources
+c:\users\kyle\documents\visual studio 2013\Projects\VoltorbFlip\VoltorbFlip\obj\Debug\VoltorbFlip.Properties.Resources.resources
+c:\users\kyle\documents\visual studio 2013\Projects\VoltorbFlip\VoltorbFlip\obj\Debug\VoltorbFlip.csproj.GenerateResource.Cache
+c:\users\kyle\documents\visual studio 2013\Projects\VoltorbFlip\VoltorbFlip\obj\Debug\VoltorbFlip.exe
+c:\users\kyle\documents\visual studio 2013\Projects\VoltorbFlip\VoltorbFlip\obj\Debug\VoltorbFlip.pdb
